@@ -1,0 +1,4 @@
+.env/
+huemn_project/
+pycache/
+*.log
