@@ -80,4 +80,4 @@ The agent tracks and learns from the following types of mistakes:
 3. Configure the MistralAI API key in the '.env' folder.
 4. Run the 'main.py' file
 
-### NOTES: This Code aims to implement the self-learning capabilities of an LLM. The model learns through its mistakes and makes effective and better decisions in the future. During testing, the main while loop runs endlessly so to escape it, use 'ctrl + c'.
+### NOTES: This Code aims to implement the self-learning capabilities of an LLM. The model learns through its mistakes and makes effective and better decisions in the future. During testing, the main while loop runs endlessly as it is meant to test cases accordingly, therefore to escape it, use 'ctrl + c'.
